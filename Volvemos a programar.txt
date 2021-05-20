@@ -3,4 +3,10 @@ Objetivos:
     1. Python
     2. C#
 
-Divertirse con Python, crear, jugar y aplicarlo en cosas reales
+Inicio con Python, el chiste es ir aplicando a cosas reales para ir practicando.
+Después crear un proyecto personal.
+
+Ideas de proyectos:
+    + Sistema de inventario para Olight
+    + Analizar los datos generados en la página de Olight
+    + Jugar con IoT
