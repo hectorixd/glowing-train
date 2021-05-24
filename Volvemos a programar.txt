@@ -10,3 +10,5 @@ Ideas de proyectos:
     + Sistema de inventario para Olight
     + Analizar los datos generados en la página de Olight
     + Jugar con IoT
+    + Herramienta de medición de ángulos en fotografía
+    + Electrocardiograma
